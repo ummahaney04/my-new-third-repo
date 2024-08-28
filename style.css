@@ -1,0 +1,32 @@
+.me{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHSL8kWtzeNNW2CblwesF1Qq4Y_R8Vjw-KVA&s);
+    height: 300px;
+    background-size: 1600px 300px ;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+.man{
+    background-color: rgb(205, 92, 92);
+    border: 20px;
+    border-color: Teal ;
+    border-style: groove;
+    border-radius: 40px;
+    margin: 40px;
+    padding: 40px;
+    box-shadow: 12px 15px 15px rgb(29, 25, 25);
+}
+#on{
+    background-color: rgb(205, 92, 92);
+    border: 20px; 
+    border-color: teal;
+    border-style: groove;
+    border-radius:40px ;
+    padding: 10px ;
+    margin: 40px;
+
+
+    }
+
+    h1{
+      font-size: 60px;
+        }
